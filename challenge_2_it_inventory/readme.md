@@ -1,3 +1,5 @@
+# Challenge 2: IT Inventory
+
 To find more details for this challenge you can see these two files:
 
 1. Slides: https://docs.google.com/presentation/d/1CbA9GLJUJFnTrwvKBQSWWghjrbohZNI12ZtZyO7UUog
