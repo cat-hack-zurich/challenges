@@ -1,4 +1,6 @@
-This is the repository for the CLimateAction.Tech hackthon 2024 held in Zurich on 17th May.
+# Zurichhack Climateaction Tech 17.5.2024
+
+This is the challenges repository for the ClimateAction.Tech hackthon 2024 held in Zurich on 17th May.
 More details of the hack can be found here: https://zurichhack.climateaction.tech/
 
 The hackathon is a one day hackathon with the goal of bringing together people from the tech industry in Switzerland who care about climate change and doing what we can to green the tech industry
