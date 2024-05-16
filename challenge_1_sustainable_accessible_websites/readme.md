@@ -13,5 +13,9 @@ and must not be shared. To get access to the repository, please send your GitHub
 
 The code is automatically deployed to http://cat-hack-zurich-web.s3-website.eu-central-1.amazonaws.com/main
 
-Also, check out the spreadsheed containing Ressources/Benchmarks/Traffic statistics/Useful links/Relevant Guidelines in https://docs.google.com/spreadsheets/d/1aDUFAmhHd2ZV6mj78dRpEagRUpG-e4871VIrQi39yl4
+Also:
+
+* check out the spreadsheed containing Ressources/Benchmarks/Traffic statistics/Useful links/Relevant Guidelines in https://docs.google.com/spreadsheets/d/1aDUFAmhHd2ZV6mj78dRpEagRUpG-e4871VIrQi39yl4
+* check out the accesibility scan at https://drive.google.com/file/d/1Thc8HUvE5uuF8_dGuDTKncSsNlm4tA0V/view?usp=drive_link
+
 
